@@ -1,39 +1,8 @@
-2025-12-10-17-10-39: Preliminaries complete. Initiating ETL process
-2025-12-10-17-10-42: Data extraction complete. Initiating Transformation process
-2025-12-10-17-10-42: Data transformation complete. Initiating Loading process
-2025-12-10-17-10-42: Data saved to CSV file
-2025-12-10-17-10-42: SQL Connection initiated
-2025-12-10-17-10-42: Data loaded to Database as a table, Executing queries
-2025-12-10-17-10-42: Process Complete
-2025-12-10-17-10-42: Server Connection closed
-2025-12-10-17-41-03: Preliminaries complete. Initiating ETL process
-2025-12-10-17-43-19: Preliminaries complete. Initiating ETL process
-2025-12-10-17-43-22: Data extraction complete. Initiating Transformation process
-2025-12-10-17-43-22: Data transformation complete. Initiating Loading process
-2025-12-10-17-43-22: Data saved to CSV file
-2025-12-10-17-43-22: SQL Connection initiated
-2025-12-10-17-43-22: Data loaded to Database as a table, Executing queries
-2025-12-10-17-43-22: Process Complete
-2025-12-10-17-43-22: Server Connection closed
-2025-12-10-17-46-33: Preliminaries complete. Initiating ETL process
-2025-12-10-17-46-35: Data extraction complete. Initiating Transformation process
-2025-12-10-17-46-35: Data transformation complete. Initiating Loading process
-2025-12-10-17-46-35: Data saved to CSV file
-2025-12-10-17-46-35: SQL Connection initiated
-2025-12-10-17-46-35: Data loaded to Database as a table, Executing queries
-2025-12-10-17-46-35: Process Complete
-2025-12-10-17-46-35: Server Connection closed
-2025-12-10-17-47-13: Preliminaries complete. Initiating ETL process
-2025-12-10-17-47-15: Data extraction complete. Initiating Transformation process
-2025-12-10-17-47-15: Data transformation complete. Initiating Loading process
-2025-12-10-17-47-15: Data saved to CSV file
-2025-12-10-17-47-15: SQL Connection initiated
-2025-12-10-17-47-15: Data loaded to Database as a table, Executing queries
-2025-12-10-17-47-15: Process Complete
-2025-12-10-17-47-15: Server Connection closed
-2025-12-10-17-51-30: Preliminaries complete. Initiating ETL process
-2025-12-10-17-51-32: Data extraction complete. Initiating Transformation process
-2025-12-10-17-55-23: Preliminaries complete. Initiating ETL process
-2025-12-10-17-55-24: Data extraction complete. Initiating Transformation process
-2025-12-10-17-55-40: Preliminaries complete. Initiating ETL process
-2025-12-10-17-55-42: Data extraction complete. Initiating Transformation process
+2025-12-10-18-09-59: Preliminaries complete. Initiating ETL process
+2025-12-10-18-10-01: Data extraction complete. Initiating Transformation process
+2025-12-10-18-10-01: Data transformation complete. Initiating Loading process
+2025-12-10-18-10-01: Data saved to CSV file
+2025-12-10-18-10-01: SQL Connection initiated
+2025-12-10-18-10-01: Data loaded to Database as a table, Executing queries
+2025-12-10-18-10-01: Process Complete
+2025-12-10-18-10-01: Server Connection closed
